@@ -11,7 +11,7 @@
 ## git remote add origin https://github.com/username/repository-name.git
 
 # Push code lên GitHub
-## git push -u origin master
+## git push -u origin main
 
 # Đẩy code lên GitHub lần sau
 
